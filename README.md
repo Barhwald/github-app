@@ -1,5 +1,7 @@
 # Github app guide
 
+It's a java app created using Quarkus
+
 ## Requirements
 
 To compile and run the app you will need:
